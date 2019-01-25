@@ -1,11 +1,12 @@
 
-#ASSUMPTIONS
+# ASSUMPTIONS
+
 
 1. The inactivity threshold has been set to 900 secs (15 mins)
 2. Unique session is identified by client IP, startTime, endTime and inactivity threshold
 
 
-#OUTPUT
+# OUTPUT
 
 
  ------------- PART 1 : SESSIONIZE WITH ASSUMED 15 MINUTE WINDOW -----------------
